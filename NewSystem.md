@@ -1,6 +1,6 @@
 # System Preferences
 
-- Dvorak Keyboard
+- Dvorak Keyboard (Phil isn't smart enough to use Dvorak)
 - Control Key for Caps-Lock
 
 ## Finder
